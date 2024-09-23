@@ -1,0 +1,1 @@
+-> We use @Primary annotation to give higher preference to a bean when there are multiple beans of the same type.

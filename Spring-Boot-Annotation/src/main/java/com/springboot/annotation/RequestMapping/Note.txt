@@ -1,0 +1,7 @@
+-> @RequestMapping annotation is used to map web requests to spring Controller methods.
+-> @RequestMapping can be applied to the controller class as well as handler methods.
+1. @RequestMapping with Class
+2. @RequestMapping with Method
+3. @RequestMapping with Multiple URI
+4. @RequestMapping with HTTP Method
+5. @RequestMapping with Produces and Consumes

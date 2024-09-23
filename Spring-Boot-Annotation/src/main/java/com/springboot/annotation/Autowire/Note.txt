@@ -1,0 +1,3 @@
+-> The @Autowired annotation is used to inject the bean automatically
+-> The @Autowired annotation is used in constructor injction, setter injection
+and field injection.

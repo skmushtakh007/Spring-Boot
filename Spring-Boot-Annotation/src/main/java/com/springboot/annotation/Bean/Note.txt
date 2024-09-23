@@ -1,0 +1,2 @@
+-> @Bean annotation indicates that a method produces a bean to be managed by the Spring container. The @Bean annotation
+   is usually declared in Configuration class to create Spring Bean definitions.

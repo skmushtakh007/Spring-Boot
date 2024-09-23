@@ -1,0 +1,2 @@
+-> @Qualifier annotation is used in conjunction with Autowired to avoid confusion when we have two or more configured
+ for same type.

@@ -1,0 +1,4 @@
+-> In order to develop RESTFul web services using spring MVC we need to use @Controller and @ResponseBody annotations.
+-> RestController is used for making restful seb services with the help of the @RestController annotation.
+-> This annotation is used at the class level and allows the class to handle the requests made by the client.
+-> RestController is combination of @Controller and @ResponseBody.
