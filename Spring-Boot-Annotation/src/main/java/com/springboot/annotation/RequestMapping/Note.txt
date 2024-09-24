@@ -2,6 +2,11 @@
 -> @RequestMapping can be applied to the controller class as well as handler methods.
 1. @RequestMapping with Class
 2. @RequestMapping with Method
-3. @RequestMapping with Multiple URI
-4. @RequestMapping with HTTP Method
+3. @RequestMapping with Multiple URI : for this we use value attribute value={}
+4. @RequestMapping with HTTP Method : we can specify what we are requesting using method attribute method = RequestMethod.GET,POST,DELETE,PUT
 5. @RequestMapping with Produces and Consumes
+produces = produces=MediaType.APPLICATION_JSON_VALUE WHICH TELLS IT WILL RETURN JSON
+MULTIPLE={MediaType.APPLICATION_JSON_VALUE,MediaType.APPLICATION_XML_VALUE}
+
+Consumes:- It will consumes data send by client ex.json,xml data send by client.
+consumes=MediaType.APPLICATION_XML_VALUE
